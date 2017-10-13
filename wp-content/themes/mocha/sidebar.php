@@ -1,0 +1,1 @@
+<?php // sidebar included in page templates ?>

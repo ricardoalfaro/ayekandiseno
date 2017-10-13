@@ -1,0 +1,76 @@
+header nav.menu ul li a{
+  font-size: 18px;
+}
+
+.logo{
+ width:280px;
+padding-top:20px;
+}
+
+header > .background-image{
+ background-repeat: repeat;
+}
+
+header .m-slider .slide h2, header .teaser h2, .teaser h1{
+ font-size: 38px;
+ margin-bottom: 5px;
+font-weight:bold;
+color:#fff !important;
+}
+
+.section-title h2{
+  font-size: 44px;
+}
+
+header .m-slider p, header .teaser p{
+  font-size: 20px;
+  line-height: 120%;
+ padding:0 10%;
+}
+
+header .m-slider, header .teaser{
+  margin-top: 130px;
+}
+
+section.skills h2{
+  display:none
+}
+
+section.alt-section,
+.pagination .links a:hover,
+.pagination .navigation a:hover,
+.pagination a.active, .mocha-button:hover,
+.wpcf7-submit:hover,
+#submit-comment:hover{
+  background:#ed1c24 !important;
+  color:#fff !important;
+}
+
+.pagination .links a {
+  padding: 10px 12px;
+  font-size: 14px;
+}
+
+.pagination .navigation a{
+  height:34px;
+}
+
+footer .copyrights p, footer .right-menu ul li a{
+  font-size:12px;
+  font-weight:bold;
+}
+
+header nav ul li:after {
+  content: " | ";
+  font-weight: normal;
+  color: #888;
+}
+
+header nav.menu > ul > li > a:hover {
+   border-bottom: 4px solid #fff;
+   color: #fff;
+}
+
+.portfolio-sortlist ul li a:hover, .portfolio-sortlist ul li a.active{
+  color: #FFF !important;
+}

@@ -1,0 +1,1301 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: waleed\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: comments.php:58
+msgid "required"
+msgstr ""
+
+#. Text in echo
+#: header.php:133
+msgid " Posts"
+msgstr ""
+
+#. Text in function
+#: comments.php:58
+msgid " or Cancel Reply"
+msgstr ""
+
+#. Text in function
+#: comments.php:17
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: comments.php:17
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: post-meta-fields.php:1
+msgid "Add Images"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Add Large Column Title"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Add Large Page Title"
+msgstr ""
+
+#. Text in function
+#: theme-custom-posts.php:1
+msgid "Add New Gallery Item"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Add New Portfolio Post"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Add New Skill"
+msgstr ""
+
+#. Text in function
+#: slides.php:1
+msgid "Add New Slide"
+msgstr ""
+
+#. Text in echo
+#: window.php:675
+msgid "Add Shortcode"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Add a clear div"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Add a columns wrapper, please use full width page template with this shortcode .. this bootstrap-based columns"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Add a highlighted content"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Add a single column , please wrap columns with Columns Wrapper Shortcode"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Add clint name"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Add clint website"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Add margin divider .. "
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Add or remove skills"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Add skills wrapper"
+msgstr ""
+
+#. Text in function
+#: slides.php:1
+msgid "Add slide link"
+msgstr ""
+
+#. Text in function
+#: slides.php:1
+msgid "Add slide link text"
+msgstr ""
+
+#. Text in function
+#: widget-connect.php:1
+msgid "Add your Content"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Add your Vimeo link"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Add your dribbble name"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Add your facebook page name , this will be used for social icon link and social badge (followers number)"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Add your linkedin account"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Add your rss link"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Add your twitter ID "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Add your twitter access token "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Add your twitter access token secret "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Add your twitter consumer key "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Add your twitter consumer secret "
+msgstr ""
+
+#. Text in function
+#: theme-custom-posts.php:1
+msgid "All Items"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "All Skills"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Animation Speed"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Background URL"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Blog Page Link"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Blog Posts Limit"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Blog Posts Order"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Blog Settings"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Blog Title"
+msgstr ""
+
+#. Text in echo
+#: archive.php:368
+#: page-blog.php:331
+#: single.php:45
+#: index.php:324
+#: search.php:62
+msgid "Category "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Change animation speed , ease method .. etc"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Change theme styles , or add your custom css"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Choose from the most used skills"
+msgstr ""
+
+#. Text in echo
+#: portfolio-single.php:132
+msgid "Client:"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Clint Name"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Clint Website"
+msgstr ""
+
+#. Text in function
+#: comments.php:13
+msgid "Comments Closed"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Copyrights"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+#: post-meta-fields.php:1
+msgid "Create Gallery"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+#: post-meta-fields.php:1
+msgid "Create gallery and upload images by clicking on upload button , For multiple images selection , hold \"CTRL (windows) / Command (mac) \" button on your keyboard when clicking ."
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in echo
+#: widget-connect.php:146
+msgid "Description "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Dribbble Feed Link"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Ease Method"
+msgstr ""
+
+#. Text in function
+#: theme-custom-posts.php:1
+msgid "Edit Items"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Edit Portfolio Post"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Edit Skills"
+msgstr ""
+
+#. Text in function
+#: slides.php:1
+msgid "Edit Slide"
+msgstr ""
+
+#. Text in function
+#: post-meta-fields.php:1
+msgid "Embed Audio"
+msgstr ""
+
+#. Text in function
+#: post-meta-fields.php:1
+msgid "Embed Video"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Enable Google Fonts"
+msgstr ""
+
+#. Text in echo
+#: widget-connect.php:175
+msgid "Enable Newsletter Form"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Enable Portfolio Posts"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Enable Read More Button"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Enable Related Posts"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Enable Second Footer"
+msgstr ""
+
+#. Text in echo
+#: widget-connect.php:164
+msgid "Enable Social Icons"
+msgstr ""
+
+#. Text in echo
+#: header.php:135
+msgid "Error 404"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Facebook Page Name (Lowercase)"
+msgstr ""
+
+#. Text in echo
+#: widget-flickr.php:90
+msgid "Flickr ID "
+msgstr ""
+
+#. Text in function
+#: widget-flickr.php:1
+#: widget-flickr.php:58
+msgid "Flickr Widget"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Float Direction"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Font Color"
+msgstr ""
+
+#. Text in function
+#: functions.php:109
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Footer Settings"
+msgstr ""
+
+#. Text in function
+#: theme-custom-posts.php:1
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+#: widget-connect.php:1
+#: widget-connect.php:107
+msgid "Get In Touch"
+msgstr ""
+
+#. Text in function
+#: widget-connect.php:1
+msgid "Get In Touch Widget"
+msgstr ""
+
+#. Text in echo
+#: blog-home.php:15
+msgid "Go to blog"
+msgstr ""
+
+#. Text in echo
+#: portfolio-home.php:23
+msgid "Go to portfolio"
+msgstr ""
+
+#. Text in echo
+#: functions.php:177
+msgid "Google Fonts Disabled , you browser is using default fonts ."
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Graph Image URL"
+msgstr ""
+
+#. Text in function
+#: post-meta-fields.php:1
+msgid "HTML5 Audio / Mp3"
+msgstr ""
+
+#. Text in function
+#: post-meta-fields.php:1
+msgid "HTML5 Audio / Ogg"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Header And Footer Font Color"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Header Font"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Headers Color"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Home Template Settings"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Home Template settings "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Hover Background Color "
+msgstr ""
+
+#. Text in function
+#: post-meta-fields.php:1
+msgid "Insert audio code here for audio post format"
+msgstr ""
+
+#. Text in function
+#: ds-admin-interface.php:566
+msgid "Insert into Post"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Javascript Settings"
+msgstr ""
+
+#. Text in function
+#: blog-home.php:13
+msgid "Latest Entries"
+msgstr ""
+
+#. Text in function
+#: widget-flickr.php:1
+msgid "Latest Flickr Photos"
+msgstr ""
+
+#. Text in function
+#: widget-latest-works.php:1
+msgid "Latest Works"
+msgstr ""
+
+#. Text in function
+#: comments.php:58
+msgid "Leave a Comment"
+msgstr ""
+
+#. Text in function
+#: comments.php:58
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Limit Home Portfolio Posts Number"
+msgstr ""
+
+#. Text in echo
+#: widget-flickr.php:104
+msgid "Limit Photos "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Limit Portfolio Posts Number"
+msgstr ""
+
+#. Text in echo
+#: widget-latest-works.php:82
+#: widget-recent-posts.php:116
+msgid "Limit Posts "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Limit Posts Number"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Limit Related Posts Number"
+msgstr ""
+
+#. Text in echo
+#: widget-twitter.php:91
+msgid "Limit Tweets"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Link Color "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Linkedin Link"
+msgstr ""
+
+#. Text in function
+#: comments.php:51
+msgid "Login / Register"
+msgstr ""
+
+#. Text in function
+#: footer.php:39
+msgid "MOCHA THEME. CREATED BY SUITSTHEME."
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Main"
+msgstr ""
+
+#. Text in function
+#: functions.php:109
+msgid "Main Menu"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Main theme options .. "
+msgstr ""
+
+#. Text in function
+#: header.php:65
+msgid "Menu"
+msgstr ""
+
+#. Text in function
+#: widget-flickr.php:1
+msgid "Mocha Flickr Widget"
+msgstr ""
+
+#. Text in function
+#: widget-latest-works.php:1
+msgid "Mocha Latest Works"
+msgstr ""
+
+#. Text in function
+#: widget-recent-posts.php:1
+msgid "Mocha Recent Posts"
+msgstr ""
+
+#. Text in function
+#: widget-twitter.php:1
+msgid "Mocha Twitter Widget"
+msgstr ""
+
+#. Text in function
+#: theme-custom-posts.php:1
+msgid "New Gallery Item"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "New Portfolio Post"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "New Skill Name"
+msgstr ""
+
+#. Text in function
+#: slides.php:1
+msgid "New Slide"
+msgstr ""
+
+#. Text in function
+#: comments.php:17
+msgid "No Comments"
+msgstr ""
+
+#. Text in echo
+#: header.php:136
+msgid "No Search Results Found , Please Try Again"
+msgstr ""
+
+#. Text in function
+#: theme-custom-posts.php:1
+msgid "No gallery items found"
+msgstr ""
+
+#. Text in function
+#: theme-custom-posts.php:1
+msgid "No gallery items found in Trash"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+#: slides.php:1
+msgid "Nothing found"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+#: slides.php:1
+msgid "Nothing found in Trash"
+msgstr ""
+
+#. Text in function
+#: comments.php:51
+msgid "Only registerd members can post a comment , "
+msgstr ""
+
+#. Text in function
+#: theme-shortcodes.php:1
+msgid "Our Skills"
+msgstr ""
+
+#. Text in function
+#: post-meta-fields.php:1
+msgid "Paste your video code here for video post format ."
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Portfolio Item Settings"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Portfolio Page Link"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Portfolio Settings"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Portfolio Title"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Portfolio settings "
+msgstr ""
+
+#. Text in function
+#: comments.php:58
+msgid "Post Comment"
+msgstr ""
+
+#. Text in function
+#: comments.php:6
+msgid "Post Protected"
+msgstr ""
+
+#. Text in function
+#: slides.php:1
+#: post-meta-fields.php:1
+msgid "Post Settings"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "RSS Link"
+msgstr ""
+
+#. Text in function
+#: archive.php:407
+#: page-blog.php:370
+#: index.php:363
+#: search.php:101
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: widget-recent-posts.php:1
+#: widget-recent-posts.php:84
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Related Posts Section Title"
+msgstr ""
+
+#. Text in function
+#: portfolio-single.php:194
+msgid "Related Works"
+msgstr ""
+
+#. Text in echo
+#: ds-admin-interface.php:279
+#: ds-admin-interface.php:281
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: ds-admin-interface.php:500
+#: ds-admin-interface.php:553
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: ds-admin-interface.php:550
+msgid "Save"
+msgstr ""
+
+#. Text in function
+#: theme-custom-posts.php:1
+msgid "Search Gallery"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Search Portfolio Posts"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Search Skills"
+msgstr ""
+
+#. Text in function
+#: slides.php:1
+msgid "Search Slides"
+msgstr ""
+
+#. Text in function
+#: header.php:105
+msgid "Search results for "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Select article links color"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Select blog posts order"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Select column offset"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Select column width"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Select header and footer font color"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Select header font , default header font is Lato 700"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Select headers color"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Select hover background color , this will apply for hover color , buttons hover "
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Select margin width"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Select post font color"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Select sidebar position  , left or right"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Select theme main color  , this will apply for hover color , buttons hover "
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Separate skills with commas"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Sidebar Position"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Single skill"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Skill Position From Left To Right"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Skills Used"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Skills section title"
+msgstr ""
+
+#. Text in echo
+#: portfolio-single.php:137
+msgid "Skills used:"
+msgstr ""
+
+#. Text in function
+#: slides.php:1
+msgid "Slide link"
+msgstr ""
+
+#. Text in function
+#: slides.php:1
+msgid "Slide link text"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Social"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Social Links , Twitter API Key "
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Stick the skills to footer"
+msgstr ""
+
+#. Text in echo
+#: functions.php:106
+msgid "Subtitle"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Team Member Dribbble"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Team Member Facebook"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Team Member Image"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Team Member Job"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Team Member Name"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Team Member Rss"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Team Member Twitter"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Team members wrapper"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Theme Main Color "
+msgstr ""
+
+#. Text in function
+#: ds-admin-interface.php:1
+#: ds-admin-interface.php:185
+msgid "Theme Options"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Theme Style"
+msgstr ""
+
+#. Text in echo
+#: widget-latest-works.php:67
+#: widget-recent-posts.php:101
+#: widget-twitter.php:69
+msgid "Title "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Tracking Code"
+msgstr ""
+
+#. Text in function
+#: share-post.php:42
+msgid "Tweet"
+msgstr ""
+
+#. Text in function
+#: widget-twitter.php:1
+#: widget-twitter.php:52
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Twitter Access Token"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Twitter CONSUMER KEY"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Twitter CONSUMER Secret"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+#: widget-twitter.php:80
+msgid "Twitter ID"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "Update Skill"
+msgstr ""
+
+#. Text in echo
+#: ds-admin-interface.php:268
+#: ds-admin-interface.php:270
+msgid "Upload"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Upload Custom Logo"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Upload Fav Icon"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Upload Footer Background"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Upload Header Background Image"
+msgstr ""
+
+#. Text in function
+#: ds-admin-interface.php:566
+msgid "Use this image"
+msgstr ""
+
+#. Text in function
+#: theme-custom-posts.php:1
+msgid "View Book"
+msgstr ""
+
+#. Text in function
+#: portfolio.php:1
+msgid "View Portfolio Post"
+msgstr ""
+
+#. Text in function
+#: slides.php:1
+msgid "View Slides"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "Vimeo Account Link"
+msgstr ""
+
+#. Text in echo
+#: portfolio-single.php:150
+msgid "Website:"
+msgstr ""
+
+#. Text in echo
+#: widget-connect.php:128
+#: widget-flickr.php:78
+msgid "Widget Title "
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Wrap and image with shit shortcode to make to float to right or left"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Wrap text with shortcode to make it 24px size"
+msgstr ""
+
+#. Text in function
+#: window.php:386
+msgid "Wrap text with shortcode to make it 300 font-wight"
+msgstr ""
+
+#. Text in function
+#: comments.php:58
+msgid "Write Message"
+msgstr ""
+
+#. Text in function
+#: comments.php:58
+msgid "Your Email *"
+msgstr ""
+
+#. Text in function
+#: comments.php:58
+msgid "Your Name *"
+msgstr ""
+
+#. Text in function
+#: comments.php:58
+msgid "Your Website "
+msgstr ""
+
+#. Text in function
+#: audio.php:36
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#. Text in function
+#: functions.php:398
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "add blog page link "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "add portfolio link , this will be used in home page template portfolio section and  portfolio single post"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "add your google / tracking code here"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "add your own custom css "
+msgstr ""
+
+#. Text in echo
+#: page-portfolio.php:30
+msgid "all"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "blog posts limit , default is 3 "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "blog settings "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "enable or disable google fonts let the theme use browser default fonts . "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "enable or disable portfolio posts "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "enable or disable read more button in blog page "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "enable or disable related posts "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "enable second footer section / copyrights and footer menu"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "enter copyrights for footer section"
+msgstr ""
+
+#. Text in echo
+#: widget-connect.php:96
+msgid "enter your email address"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "footer settings "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "home blog title "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "home portfolio title "
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "limit the number of portfolio posts  , default is 12"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "limit the number of portfolio posts  , default is 4"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "limit the number of posts per page , default is 4"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "limit the number of related posts  , default is 4"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "related posts section title"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "select animation speed"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "select ease method for jquery easing plugin"
+msgstr ""
+
+#. Text in function
+#: post-meta-fields.php:1
+msgid "select here , make usre to select the audio post format ."
+msgstr ""
+
+#. Text in echo
+#: searchform.php:5
+msgid "type and hit enter .."
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "upload custom fav icon image"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "upload custom logo image"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "upload header background image"
+msgstr ""
+
+#. Text in function
+#: ds-options-list.php:1
+msgid "you can leave it empty to disable footer background"
+msgstr ""
+

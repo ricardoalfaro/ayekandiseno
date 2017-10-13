@@ -1,0 +1,42 @@
+/**
+ * Meta Box Styles @ ds framework
+ */
+.dsf-meta-container {
+
+	clear: both; 
+	overflow: hidden;
+	width: 90%;
+	background: #fff;
+	padding: 10px 4%;
+
+	
+}
+
+.dsf-meta-container h4 {
+	float: left; 
+	clear: both;
+	width: 100%; 
+	font-size: 18px;
+	font-family: 'Open Sans' , sans-serif;
+	font-weight: 800;
+	color: #5F5F5F; 
+
+
+}
+
+.dsf-meta-container a.metabutton {
+	float: right; 
+	clear: both; 
+	margin: 20px 0px 0px 0px;
+	padding: 8px 20px;
+	z-index: 9;
+	text-decoration: none;
+	position: relative;
+	background: #39b6e4;
+	color: #fff;
+	font-size: 14px;
+	font-family: 'Open Sans' , sans-serif;
+	min-width: 80px;
+	text-align: center;
+
+}

@@ -1,0 +1,21 @@
+body > section   {
+position: relative;
+z-index: 10;
+background: #fff;
+float: left;
+clear: both;
+width: 100%;
+
+}
+footer {
+position: fixed;
+z-index: 0;
+float: left;
+clear: both;
+bottom: 0;
+
+}
+footer .widgets-wrapper {
+  height: 100%;
+
+}
